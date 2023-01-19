@@ -40,8 +40,8 @@ Communication
 <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white" />
 <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
 
-## 🍖 개발 규칙
-### 커밋컨벤션
+## 개발 규칙
+### 1. 커밋컨벤션
 - `feat`: 기능 추가
 - `fix`: 버그 고친 경우
 - `design`: css 등 사용자 UI 디자인 변경
@@ -50,7 +50,7 @@ Communication
 - `rename`: 파일 혹은 폴더명 수정하거나 옮기는 경우
 - `remove`: 파일을 삭제하는 작업만 수행한 경우
 - `refactor`: 코드 리펙토링
-### 브랜치
+### 2. 브랜치
 `master`
 `dev`
 `feature/FE/기능명`
