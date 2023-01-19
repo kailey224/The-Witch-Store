@@ -2,7 +2,7 @@
 마녀상점은 현대인들에게 위로를 줄 수 있는 제품을 판매하고 있으며, 심리 테스트를 통해 나온 결과를 기반으로 고객에게 필요한 위로 아이템을 추천해주는 상점입니다. 
 쇼핑몰 진입 시 심리 테스트를 진행할 수 있으며, 결과에 따라 상품을 추천받을 수 있습니다. 
 
-#### 🎬 [시연영상 보러가기](https://drive.google.com/file/d/1agzJqPiPfgKC5UUJdbI9honO3-KkDwJK/view?usp=sharing)
+#### 🎬 [시연영상 보러가기](https://drive.google.com/file/d/1agzJqPiPfgKC5UUJdbI9honO3-KkDwJK/view?usp=sharing)   
 #### 📑 [기획서 보러가기](https://drive.google.com/file/d/1T4PFO0OiJCD67qTqntjHGJyPgjcfABJO/view?usp=sharing)
 
 ## 개발기간
