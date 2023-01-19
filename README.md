@@ -3,6 +3,7 @@
 쇼핑몰 진입 시 심리 테스트를 진행할 수 있으며, 결과에 따라 상품을 추천받을 수 있습니다. 
 
 #### 🎬 [시연영상 보러가기](https://drive.google.com/file/d/1agzJqPiPfgKC5UUJdbI9honO3-KkDwJK/view?usp=sharing)
+#### 📑 [기획서 보러가기](https://drive.google.com/file/d/1T4PFO0OiJCD67qTqntjHGJyPgjcfABJO/view?usp=sharing)
 
 ## 개발기간
 2022년 10월 31일 ~ 2022년 11월 12일 (약 2주)
@@ -11,11 +12,11 @@
 
 | Name | Position | Role | 
 | ------ | ------ | ----- |
-| 이은비 | Frontend | 로그인, 회원가입, 심리테스트  |
-| 이화정 | Frontend | review, post modal, autocomplete 담당 |
-| 최승연 | Frontend | Bookmark, modal, route 담당 |
-| 박재인 | Backend | 등 유저 관련 기능 담당|
-| 주갑열 | Backend | Only One, 단 하나의 백엔드 |
+| 이은비 | Frontend | 로그인, 회원가입, 심리테스트 및 기획, 와이어프레임 제작 담당  |
+| *이화정 | Frontend | [장바구니](https://github.com/kailey224/The-Witch-Store/tree/main/src/views/cart), [주문완료](https://github.com/kailey224/The-Witch-Store/tree/main/src/views/finish-shopping), [주문조회](https://github.com/kailey224/The-Witch-Store/tree/main/src/views/order-detail), 기획 및 디자인 담당 |
+| 최승연 | Frontend | 제품페이지, 어드민 페이지 및 기획, 와이어프레임 제작담당 |
+| 박재인 | Backend | 팀장, 제품페이지, 어드민 페이지 DB설계, API 작성, 기획, 와이어프레임 제작 |
+| 주갑열 | Backend | 유저페이지, 주문페이지 DB설계, API 작성, 기획, 와이어프레임 제작|
 
 ## 개발 환경
 Front
