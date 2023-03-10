@@ -9,11 +9,12 @@
 2022년 10월 31일 ~ 2022년 11월 12일 (약 2주)
 
 ## 멤버구성 및 역할
+하단 <이화정> 영역에 링크된 페이지를 통해 제가 담당했던 코드를 확인하실 수 있습니다.
 
 | Name | Position | Role | 
 | ------ | ------ | ----- |
+| *이화정 | Frontend | [장바구니](https://github.com/kailey224/The-Witch-Store/tree/main/src/views/cart), [주문완료](https://github.com/kailey224/The-Witch-Store/tree/main/src/views/finish-shopping), [주문조회](https://github.com/kailey224/The-Witch-Store/tree/main/src/views/order-detail), 기획 및 [디자인 담당](https://www.figma.com/file/Iw59DiiTuGRxsM3Nqw5zPt/the-witch-store?node-id=0%3A1&t=49FDMsAOKfUe4Gsq-0) |
 | 이은비 | Frontend | 로그인, 회원가입, 심리테스트 및 기획, 와이어프레임 제작 담당  |
-| *이화정 | Frontend | [장바구니](https://github.com/kailey224/The-Witch-Store/tree/main/src/views/cart), [주문완료](https://github.com/kailey224/The-Witch-Store/tree/main/src/views/finish-shopping), [주문조회](https://github.com/kailey224/The-Witch-Store/tree/main/src/views/order-detail), 기획 및 디자인 담당 |
 | 최승연 | Frontend | 제품페이지, 어드민 페이지 및 기획, 와이어프레임 제작담당 |
 | 박재인 | Backend | 팀장, 제품페이지, 어드민 페이지 DB설계, API 작성, 기획, 와이어프레임 제작 |
 | 주갑열 | Backend | 유저페이지, 주문페이지 DB설계, API 작성, 기획, 와이어프레임 제작|
